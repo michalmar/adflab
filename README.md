@@ -1,5 +1,8 @@
 # adflab
 
+
+> Prague note: to skip HDinisght part - download: https://adflabstoragedo3jw.blob.core.windows.net/output/FAAMerge/000000_0 and upload to blob storage to `/output/FAAMerge` 
+
 Azure Data Factory (ADF) is a Microsoft Azure Platform-as-a-Service offering that provides auto-scale-out data movement and data transformation pipelines for building data integration and ETL/ELT workflows.
 
 This is a hands-on lab for Azure Data Factory based on the V2 service that walks you through building an ETL pipeline as well as Lift & Shift of your SSIS on-prem packages into ADF.
