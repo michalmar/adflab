@@ -1,7 +1,11 @@
 # adflab
 
-
-> Prague note: to skip HDinisght part - download: https://adflabstoragedo3jw.blob.core.windows.net/output/FAAMerge/000000_0 and upload to blob storage to `/output/FAAMerge` 
+> Prague note 1: Primary intent is to do labs:
+  - Lab 1
+  - Lab 3
+  - Lab 6
+  - optional Lab 7 and 8
+> Prague note 2: to skip HDinisght part - download: https://adflabstoragedo3jw.blob.core.windows.net/output/FAAMerge/000000_0 and upload to blob storage to `/output/FAAMerge` 
 
 Azure Data Factory (ADF) is a Microsoft Azure Platform-as-a-Service offering that provides auto-scale-out data movement and data transformation pipelines for building data integration and ETL/ELT workflows.
 
